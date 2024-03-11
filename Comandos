@@ -1,0 +1,11 @@
+Ler teclas
+	gz topic -e -t /keyboard/keypress
+
+Sensores
+	IHM: 
+		gz topic -e -t /imu
+	Contato na parede
+		gz topic -e -t /wall/touched
+	Lidar
+		gz topic -e -t /lidar
+	

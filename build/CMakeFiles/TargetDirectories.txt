@@ -1,0 +1,3 @@
+/home/joaocarlos/Área de Trabalho/Tutorial_Gazebo/build/CMakeFiles/lidar_node.dir
+/home/joaocarlos/Área de Trabalho/Tutorial_Gazebo/build/CMakeFiles/edit_cache.dir
+/home/joaocarlos/Área de Trabalho/Tutorial_Gazebo/build/CMakeFiles/rebuild_cache.dir
